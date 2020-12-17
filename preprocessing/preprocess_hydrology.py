@@ -175,7 +175,7 @@ def preprocess_hydrology(dataset, basins_to_process=None, tasks=None, debug=Fals
 
 if __name__ == '__main__':
 
-    parser = argparsecls.ArgumentParser()
+    parser = argparse.ArgumentParser()
     parser.add_argument("-t", "--tasks",
                         help="Tasks to run. Options include 'pre', 'common', and 'basins'. Default is all.")
     parser.add_argument("-b", "--basin",
