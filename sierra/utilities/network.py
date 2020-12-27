@@ -72,7 +72,10 @@ def simplify_network(m, scenario_path=None, basin=None, climate=None, delete_gau
                     obsolete_gauges.append(node_name)
                 if down_nodes.count(node_name) == 0:
                     # upstream-most node
+                    #print (node_name)
+                    #print (down_edges[node_name])
                     down_edge = down_edges[node_name][0]
+                    #print (down_edge)
                     obsolete_nodes.append(node_name)
                     obsolete_edges.append(down_edge)
                     mission_complete = False
