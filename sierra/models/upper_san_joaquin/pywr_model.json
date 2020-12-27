@@ -5010,10 +5010,6 @@
             "above USGS_11243300_BROWNS C CN"
         ],
         [
-            "SJN_09a Headflow",
-            "Below SJN_09 Headflow"
-        ],
-        [
             "Below SJN_09 Headflow",
             "SJN_09 Inflow"
         ],
@@ -5040,10 +5036,6 @@
         [
             "Below Wishon Penstock Inflow.2",
             "SJN_07 Inflow"
-        ],
-        [
-            "USGS 11238380 BIG C PH NO 2 NR BIG CREEK CA",
-            "Big Creek 2 Tunnel"
         ],
         [
             "Big Creek 2 Tunnel",
@@ -5244,10 +5236,6 @@
         [
             "No. 3 Conduit (1)",
             "No. 3 Conduit Inflow"
-        ],
-        [
-            "USGS 11238400 BIG C PH NO 2A NR BIG CREEK CA",
-            "PH 2A Aqueduct"
         ],
         [
             "PH 2A Aqueduct",
